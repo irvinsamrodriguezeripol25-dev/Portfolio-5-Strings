@@ -6,7 +6,7 @@
 ### learning about strings in Python. The program analyzes a song title by checking its length, changing letter cases, 
 ### and searching for words inside the title. This helped me better understand string operations and manipulation in a more fun and personal way.)
 
-### ( I named this programas MusicString Analyzer.)
+### ( I named this program as MusicString Analyzer.)
 
 ```python
 print("=== MusicString Analyzer ===")
